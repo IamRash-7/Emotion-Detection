@@ -11,6 +11,8 @@
 *Jupyter Notebook*
 
 ### Outputs - 
+![Ronaldo Sad](https://github.com/IamRash-7/Emotion-Detection/blob/main/ronaldo_out.png)
 
+![Messi Happy](https://github.com/IamRash-7/Emotion-Detection/blob/main/messi_out.png)
 
 ### Tweet - 
